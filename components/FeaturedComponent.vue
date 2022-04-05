@@ -1,9 +1,13 @@
 <template>
-  <FeaturedComponent />
+  <section class="featured"></section>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+
 }
 </script>
+
+<style>
+
+</style>
